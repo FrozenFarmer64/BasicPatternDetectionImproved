@@ -1,6 +1,6 @@
-import random;
 import numpy;
 from numpy import array;
+import random;
 
 """
 BasicPatternDetectionImproved.py
